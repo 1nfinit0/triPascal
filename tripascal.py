@@ -36,7 +36,7 @@ if __name__ == "__main__":
     print("\nBienvenido al generador del Triángulo de Pascal!\n")
     rows = int(input("Generar hasta la fila:   ") )
     triPascal(rows);
-    #text:
+    #test:
     #print(printPascalRow(10))
     #print(combinacion(14,5)) 
     
